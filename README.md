@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## lista_produtos_v2
+## Project lista_produtos_v2
 O lista_produtos_v2 é uma nova versão do listagem_produtos onde foi realizado o projeto em Laravel e adicionado outras funções extras.
 Neste projeto será possível ao usuário:
 
