@@ -35,7 +35,7 @@ composer install
 Continuamos com a instalação do npm para que o Bootstrap.css seja corretamente configurado.
 npm install
 
-### Criar uma cópia do arquivo .env
+## Criar uma cópia do arquivo .env
 Precisamos gerar um arquivo .env para colocarmos as informações de configuração. Para isto, faça uma cópia do arquivo '.env.example' e renomeie para '.env'.
 
 ## Gerar uma chave de encriptação
